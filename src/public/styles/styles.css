@@ -1,0 +1,14 @@
+.modal-no-background.modal {
+    background: transparent !important;
+  }
+  
+  .modal-no-background .modal-dialog {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+    width: 300px; /* Ajusta el ancho según tus necesidades */
+    max-width: 100%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }

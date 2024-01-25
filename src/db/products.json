@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Xbox S",
+      "description": "Consola",
+      "price": 500,
+      "thumbnail": "",
+      "code": "XB001",
+      "stock": 197250,
+      "id": 1
+    },
+    {
+      "title": "Consola",
+      "description": "PS4",
+      "price": 350,
+      "thumbnail": "",
+      "code": "PS001",
+      "stock": 15780,
+      "id": 2
+    },
+    {
+      "title": "Consola",
+      "description": "Xbox Series X",
+      "price": 500,
+      "thumbnail": "Consolas",
+      "code": "XX01",
+      "stock": 30,
+      "id": 3
+    },
+    {
+      "title": "Consola",
+      "description": "Playstation 5",
+      "price": 500,
+      "thumbnail": "",
+      "code": "PS001",
+      "stock": 78900,
+      "id": 4
+    }
+  ]

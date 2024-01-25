@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "products": [
+        {
+          "id": 2,
+          "title": "Xbox S",
+          "description": "Consola",
+          "price": 500,
+          "thumbnail": "",
+          "code": "XB001",
+          "quantity": 197250
+        }
+      ]
+    }
+  ]
